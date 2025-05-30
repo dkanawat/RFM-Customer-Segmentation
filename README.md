@@ -1,3 +1,3 @@
-🌐 [View Live HTML Page](https://github.com/dkanawat/RFM-Customer-Segmentation/blob/main/rfm-segmentation.html)
+🌐 [View Live HTML Page](https://dkanawat.github.io/RFM-Customer-Segmentation/rfm-segmentation.html)
 
 
